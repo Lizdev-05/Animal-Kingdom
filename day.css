@@ -1,0 +1,47 @@
+body{
+  background-color: lightblue;
+}
+
+h1, h3{
+  background-color:lightcoral;
+  padding: 16px;
+  font-family: Sacramento,cursive, sans-serif;
+  font-weight: 700;
+
+}
+
+#main{
+  background-color: lightgrey;
+  padding: 16px;
+}
+
+#section{
+  background-color: lightgreen;
+  padding: 24px;
+}
+.article{
+  background-color: seagreen;
+  padding: 24px;
+  font-family: Merriweather, sans-serif;
+  font-weight: 500;
+
+}
+
+.class1{
+  background-color: lightgreen;
+  font-family: Montserrat, cursive, sans-serif;
+  padding: 16px;
+}
+
+
+.form{
+  background-color: white;
+  padding: 24px;
+}
+
+button{
+  background-color: lightcoral;
+  padding: 8px;
+  font-weight: 500;
+  margin-top: 8px;
+}
